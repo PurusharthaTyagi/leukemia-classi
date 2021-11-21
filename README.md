@@ -12,3 +12,4 @@ In total there are 15,135 images from 118 patients with two labelled classes:
 
 Normal cell;
 Leukemia blast.
+dataset link :- https://www.kaggle.com/andrewmvd/leukemia-classification
